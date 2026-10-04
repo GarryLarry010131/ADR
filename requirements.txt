@@ -1,0 +1,9 @@
+torch>=2.1
+torchvision>=0.16
+open_clip_torch>=2.24
+numpy>=1.24
+pillow>=9.0
+spacy>=3.5
+pyarrow>=12.0
+pyyaml>=6.0
+transformers>=4.45      # matching heads and MLLM readouts only

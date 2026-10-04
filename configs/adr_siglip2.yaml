@@ -1,0 +1,10 @@
+# SigLIP2-So400m under the pooling-native rule: deployed cosine and ADR with the two column weights of the paper.
+readouts:
+  - {readout: deployed, model: siglip2_so400m}
+  - {readout: adr, model: siglip2_so400m, variant: excess}
+  - {readout: adr, model: siglip2_so400m, variant: dense}
+sets: [vgrel, coco_spatial, whatsup_a, whatsup_b, vsr]
+passes: [real, "null"]
+data_root: data
+vsr_root: data/vsr
+out: results/siglip2_so400m

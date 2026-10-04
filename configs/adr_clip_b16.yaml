@@ -1,0 +1,11 @@
+# The two readouts of frozen CLIP ViT-B/16 on the five direction-balanced sets, real and null passes.
+# Reproduces the CLIP rows of the paper's main table (accuracy / null accuracy / grounded gain).
+readouts:
+  - {readout: deployed, model: clip_b16}
+  - {readout: adr, model: clip_b16, variant: excess}
+  - {readout: adr, model: clip_b16, variant: dense}
+sets: [vgrel, coco_spatial, whatsup_a, whatsup_b, vsr]
+passes: [real, "null"]
+data_root: data          # folder holding whatsup/ and coco/val2017/ as in data/manifests
+vsr_root: data/vsr       # VSR split files and images/
+out: results/clip_b16

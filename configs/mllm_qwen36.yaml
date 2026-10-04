@@ -1,0 +1,10 @@
+# The two MLLM forms of Qwen3.6-27B: likelihood of each candidate caption and chat with one-letter answers.
+# Both readouts share one loaded model. Use llava15_7b or qwen3vl_8b for the other MLLMs of the paper.
+readouts:
+  - {readout: likelihood, model: qwen36_27b}
+  - {readout: chat, model: qwen36_27b}
+sets: [vgrel, coco_spatial, whatsup_a, whatsup_b, vsr]
+passes: [real, "null"]
+data_root: data
+vsr_root: data/vsr
+out: results/qwen36_27b

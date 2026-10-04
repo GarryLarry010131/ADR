@@ -1,0 +1,14 @@
+# The prior table: three deployed scores and the LLaVA-1.5 likelihood on the prior-laden sets (VG-Relation
+# vertical and verbs, VALSE actant swap) next to VG-Relation left/right. The vertical stratum comes with the vgrel
+# set. Qwen3.6-27B likelihood is added by {readout: likelihood, model: qwen36_27b}.
+readouts:
+  - {readout: deployed, model: clip_b16}
+  - {readout: deployed, model: negclip}
+  - {readout: deployed, model: siglip2_so400m}
+  - {readout: likelihood, model: llava15_7b}
+sets: [vgrel, vgrel_verbs, valse]
+passes: [real, "null"]
+cache_dir: null                      # hub cache with the ARO parquet shards; defaults to ADR_CACHE_DIR
+valse_json: data/valse/actant-swap.json
+swig_root: data/swig/images_512
+out: results/prior_biased

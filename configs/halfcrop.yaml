@@ -1,0 +1,9 @@
+# The half-crop input intervention on CLIP ViT-B/16 and SigLIP2-So400m (the alternative-readouts table).
+readouts:
+  - {readout: halfcrop, model: clip_b16}
+  - {readout: halfcrop, model: siglip2_so400m}
+sets: [vgrel, coco_spatial, whatsup_a, whatsup_b, vsr]
+passes: [real, "null"]
+data_root: data
+vsr_root: data/vsr
+out: results/halfcrop

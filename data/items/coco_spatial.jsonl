@@ -1,0 +1,440 @@
+{"ix": 0, "image": "000000037777.jpg", "captions": ["A photo of a dining table to the left of a refrigerator", "A photo of a dining table to the right of a refrigerator"], "correct": 0, "covered": true, "partner": 101}
+{"ix": 1, "image": "000000037777.jpg", "captions": ["A photo of a refrigerator to the right of a oven", "A photo of a refrigerator to the left of a oven"], "correct": 0, "covered": false, "partner": 102}
+{"ix": 2, "image": "000000331352.jpg", "captions": ["A photo of a toilet below a sink", "A photo of a toilet above a sink"], "correct": 0, "covered": true, "partner": 103}
+{"ix": 3, "image": "000000491497.jpg", "captions": ["A photo of a tv to the left of a chair", "A photo of a tv to the right of a chair"], "correct": 0, "covered": true, "partner": 104}
+{"ix": 4, "image": "000000491497.jpg", "captions": ["A photo of a tv to the left of a couch", "A photo of a tv to the right of a couch"], "correct": 0, "covered": true, "partner": 105}
+{"ix": 5, "image": "000000289393.jpg", "captions": ["A photo of a bird to the right of a giraffe", "A photo of a bird to the left of a giraffe"], "correct": 0, "covered": true, "partner": 106}
+{"ix": 6, "image": "000000289393.jpg", "captions": ["A photo of a bird below a giraffe", "A photo of a bird above a giraffe"], "correct": 0, "covered": true, "partner": 107}
+{"ix": 7, "image": "000000289393.jpg", "captions": ["A photo of a bird to the right of a cow", "A photo of a bird to the left of a cow"], "correct": 0, "covered": true, "partner": 108}
+{"ix": 8, "image": "000000403817.jpg", "captions": ["A photo of a cat to the left of a tv", "A photo of a cat to the right of a tv"], "correct": 0, "covered": false, "partner": 109}
+{"ix": 9, "image": "000000039956.jpg", "captions": ["A photo of a bed to the left of a chair", "A photo of a bed to the right of a chair"], "correct": 0, "covered": true, "partner": 110}
+{"ix": 10, "image": "000000321214.jpg", "captions": ["A photo of a cake below a chair", "A photo of a cake above a chair"], "correct": 0, "covered": true, "partner": 111}
+{"ix": 11, "image": "000000473237.jpg", "captions": ["A photo of a chair to the right of a pizza", "A photo of a chair to the left of a pizza"], "correct": 0, "covered": true, "partner": 112}
+{"ix": 12, "image": "000000524456.jpg", "captions": ["A photo of a laptop above a mouse", "A photo of a laptop below a mouse"], "correct": 0, "covered": true, "partner": 113}
+{"ix": 13, "image": "000000524456.jpg", "captions": ["A photo of a mouse to the right of a keyboard", "A photo of a mouse to the left of a keyboard"], "correct": 0, "covered": true, "partner": 114}
+{"ix": 14, "image": "000000524456.jpg", "captions": ["A photo of a mouse below a keyboard", "A photo of a mouse above a keyboard"], "correct": 0, "covered": true, "partner": 115}
+{"ix": 15, "image": "000000127182.jpg", "captions": ["A photo of a microwave above a oven", "A photo of a microwave below a oven"], "correct": 0, "covered": false, "partner": 116}
+{"ix": 16, "image": "000000127182.jpg", "captions": ["A photo of a microwave to the left of a refrigerator", "A photo of a microwave to the right of a refrigerator"], "correct": 0, "covered": true, "partner": 117}
+{"ix": 17, "image": "000000127182.jpg", "captions": ["A photo of a microwave above a refrigerator", "A photo of a microwave below a refrigerator"], "correct": 0, "covered": true, "partner": 118}
+{"ix": 18, "image": "000000127182.jpg", "captions": ["A photo of a oven to the left of a refrigerator", "A photo of a oven to the right of a refrigerator"], "correct": 0, "covered": true, "partner": 119}
+{"ix": 19, "image": "000000367680.jpg", "captions": ["A photo of a car to the right of a bus", "A photo of a car to the left of a bus"], "correct": 0, "covered": true, "partner": 120}
+{"ix": 20, "image": "000000365387.jpg", "captions": ["A photo of a bed to the right of a toilet", "A photo of a bed to the left of a toilet"], "correct": 0, "covered": true, "partner": 121}
+{"ix": 21, "image": "000000177015.jpg", "captions": ["A photo of a cat to the right of a laptop", "A photo of a cat to the left of a laptop"], "correct": 0, "covered": true, "partner": 122}
+{"ix": 22, "image": "000000177015.jpg", "captions": ["A photo of a cat to the right of a refrigerator", "A photo of a cat to the left of a refrigerator"], "correct": 0, "covered": true, "partner": 123}
+{"ix": 23, "image": "000000021503.jpg", "captions": ["A photo of a mouse to the right of a keyboard", "A photo of a mouse to the left of a keyboard"], "correct": 0, "covered": true, "partner": 124}
+{"ix": 24, "image": "000000460494.jpg", "captions": ["A photo of a fork below a cup", "A photo of a fork above a cup"], "correct": 0, "covered": true, "partner": 125}
+{"ix": 25, "image": "000000339442.jpg", "captions": ["A photo of a apple above a dining table", "A photo of a apple below a dining table"], "correct": 0, "covered": true, "partner": 126}
+{"ix": 26, "image": "000000172571.jpg", "captions": ["A photo of a wine glass to the right of a cup", "A photo of a wine glass to the left of a cup"], "correct": 0, "covered": true, "partner": 127}
+{"ix": 27, "image": "000000294831.jpg", "captions": ["A photo of a person below a laptop", "A photo of a person above a laptop"], "correct": 0, "covered": true, "partner": 128}
+{"ix": 28, "image": "000000294831.jpg", "captions": ["A photo of a person below a dining table", "A photo of a person above a dining table"], "correct": 0, "covered": true, "partner": 129}
+{"ix": 29, "image": "000000294831.jpg", "captions": ["A photo of a pizza below a dining table", "A photo of a pizza above a dining table"], "correct": 0, "covered": true, "partner": 130}
+{"ix": 30, "image": "000000084431.jpg", "captions": ["A photo of a tv above a pizza", "A photo of a tv below a pizza"], "correct": 0, "covered": true, "partner": 131}
+{"ix": 31, "image": "000000355325.jpg", "captions": ["A photo of a cup to the right of a bowl", "A photo of a cup to the left of a bowl"], "correct": 0, "covered": true, "partner": 132}
+{"ix": 32, "image": "000000355325.jpg", "captions": ["A photo of a bowl to the left of a person", "A photo of a bowl to the right of a person"], "correct": 0, "covered": true, "partner": 133}
+{"ix": 33, "image": "000000004495.jpg", "captions": ["A photo of a couch to the right of a chair", "A photo of a couch to the left of a chair"], "correct": 0, "covered": true, "partner": 134}
+{"ix": 34, "image": "000000397327.jpg", "captions": ["A photo of a toilet to the left of a sink", "A photo of a toilet to the right of a sink"], "correct": 0, "covered": true, "partner": 135}
+{"ix": 35, "image": "000000482917.jpg", "captions": ["A photo of a dog below a tv", "A photo of a dog above a tv"], "correct": 0, "covered": false, "partner": 136}
+{"ix": 36, "image": "000000482917.jpg", "captions": ["A photo of a tv above a person", "A photo of a tv below a person"], "correct": 0, "covered": true, "partner": 137}
+{"ix": 37, "image": "000000482917.jpg", "captions": ["A photo of a tv above a couch", "A photo of a tv below a couch"], "correct": 0, "covered": true, "partner": 138}
+{"ix": 38, "image": "000000140640.jpg", "captions": ["A photo of a potted plant above a dining table", "A photo of a potted plant below a dining table"], "correct": 0, "covered": true, "partner": 139}
+{"ix": 39, "image": "000000072813.jpg", "captions": ["A photo of a dog to the right of a tv", "A photo of a dog to the left of a tv"], "correct": 0, "covered": false, "partner": 140}
+{"ix": 40, "image": "000000261116.jpg", "captions": ["A photo of a bench below a dining table", "A photo of a bench above a dining table"], "correct": 0, "covered": true, "partner": 141}
+{"ix": 41, "image": "000000491366.jpg", "captions": ["A photo of a tv to the right of a couch", "A photo of a tv to the left of a couch"], "correct": 0, "covered": true, "partner": 142}
+{"ix": 42, "image": "000000491366.jpg", "captions": ["A photo of a tv above a couch", "A photo of a tv below a couch"], "correct": 0, "covered": true, "partner": 143}
+{"ix": 43, "image": "000000138819.jpg", "captions": ["A photo of a toilet to the right of a sink", "A photo of a toilet to the left of a sink"], "correct": 0, "covered": true, "partner": 144}
+{"ix": 44, "image": "000000138819.jpg", "captions": ["A photo of a toilet below a sink", "A photo of a toilet above a sink"], "correct": 0, "covered": true, "partner": 145}
+{"ix": 45, "image": "000000446522.jpg", "captions": ["A photo of a dog to the right of a refrigerator", "A photo of a dog to the left of a refrigerator"], "correct": 0, "covered": true, "partner": 146}
+{"ix": 46, "image": "000000311303.jpg", "captions": ["A photo of a cup to the right of a person", "A photo of a cup to the left of a person"], "correct": 0, "covered": true, "partner": 147}
+{"ix": 47, "image": "000000036936.jpg", "captions": ["A photo of a potted plant below a tv", "A photo of a potted plant above a tv"], "correct": 0, "covered": false, "partner": 148}
+{"ix": 48, "image": "000000036936.jpg", "captions": ["A photo of a tv to the left of a couch", "A photo of a tv to the right of a couch"], "correct": 0, "covered": true, "partner": 149}
+{"ix": 49, "image": "000000050326.jpg", "captions": ["A photo of a person to the left of a chair", "A photo of a person to the right of a chair"], "correct": 0, "covered": true, "partner": 150}
+{"ix": 50, "image": "000000117908.jpg", "captions": ["A photo of a cat to the right of a person", "A photo of a cat to the left of a person"], "correct": 0, "covered": true, "partner": 151}
+{"ix": 51, "image": "000000569917.jpg", "captions": ["A photo of a toilet to the left of a sink", "A photo of a toilet to the right of a sink"], "correct": 0, "covered": true, "partner": 152}
+{"ix": 52, "image": "000000571313.jpg", "captions": ["A photo of a refrigerator to the left of a bed", "A photo of a refrigerator to the right of a bed"], "correct": 0, "covered": true, "partner": 153}
+{"ix": 53, "image": "000000571313.jpg", "captions": ["A photo of a refrigerator above a bed", "A photo of a refrigerator below a bed"], "correct": 0, "covered": true, "partner": 154}
+{"ix": 54, "image": "000000571313.jpg", "captions": ["A photo of a refrigerator to the right of a chair", "A photo of a refrigerator to the left of a chair"], "correct": 0, "covered": true, "partner": 155}
+{"ix": 55, "image": "000000571313.jpg", "captions": ["A photo of a refrigerator above a chair", "A photo of a refrigerator below a chair"], "correct": 0, "covered": true, "partner": 156}
+{"ix": 56, "image": "000000571313.jpg", "captions": ["A photo of a refrigerator to the right of a microwave", "A photo of a refrigerator to the left of a microwave"], "correct": 0, "covered": true, "partner": 157}
+{"ix": 57, "image": "000000571313.jpg", "captions": ["A photo of a bed to the right of a chair", "A photo of a bed to the left of a chair"], "correct": 0, "covered": true, "partner": 158}
+{"ix": 58, "image": "000000571313.jpg", "captions": ["A photo of a bed to the right of a microwave", "A photo of a bed to the left of a microwave"], "correct": 0, "covered": true, "partner": 159}
+{"ix": 59, "image": "000000571313.jpg", "captions": ["A photo of a bed below a microwave", "A photo of a bed above a microwave"], "correct": 0, "covered": true, "partner": 160}
+{"ix": 60, "image": "000000571313.jpg", "captions": ["A photo of a chair below a microwave", "A photo of a chair above a microwave"], "correct": 0, "covered": true, "partner": 161}
+{"ix": 61, "image": "000000189752.jpg", "captions": ["A photo of a knife below a wine glass", "A photo of a knife above a wine glass"], "correct": 0, "covered": true, "partner": 162}
+{"ix": 62, "image": "000000573094.jpg", "captions": ["A photo of a chair to the left of a bicycle", "A photo of a chair to the right of a bicycle"], "correct": 0, "covered": true, "partner": 163}
+{"ix": 63, "image": "000000573094.jpg", "captions": ["A photo of a couch to the left of a bicycle", "A photo of a couch to the right of a bicycle"], "correct": 0, "covered": true, "partner": 164}
+{"ix": 64, "image": "000000038576.jpg", "captions": ["A photo of a tv above a keyboard", "A photo of a tv below a keyboard"], "correct": 0, "covered": true, "partner": 165}
+{"ix": 65, "image": "000000410880.jpg", "captions": ["A photo of a bench to the left of a teddy bear", "A photo of a bench to the right of a teddy bear"], "correct": 0, "covered": true, "partner": 166}
+{"ix": 66, "image": "000000472046.jpg", "captions": ["A photo of a couch above a oven", "A photo of a couch below a oven"], "correct": 0, "covered": false, "partner": 167}
+{"ix": 67, "image": "000000446651.jpg", "captions": ["A photo of a car to the left of a motorcycle", "A photo of a car to the right of a motorcycle"], "correct": 0, "covered": true, "partner": 168}
+{"ix": 68, "image": "000000421455.jpg", "captions": ["A photo of a dog to the right of a cell phone", "A photo of a dog to the left of a cell phone"], "correct": 0, "covered": true, "partner": 169}
+{"ix": 69, "image": "000000156643.jpg", "captions": ["A photo of a bottle to the left of a cake", "A photo of a bottle to the right of a cake"], "correct": 0, "covered": true, "partner": 170}
+{"ix": 70, "image": "000000156643.jpg", "captions": ["A photo of a bottle to the left of a teddy bear", "A photo of a bottle to the right of a teddy bear"], "correct": 0, "covered": true, "partner": 171}
+{"ix": 71, "image": "000000156643.jpg", "captions": ["A photo of a cake below a teddy bear", "A photo of a cake above a teddy bear"], "correct": 0, "covered": true, "partner": 172}
+{"ix": 72, "image": "000000371677.jpg", "captions": ["A photo of a cup to the right of a laptop", "A photo of a cup to the left of a laptop"], "correct": 0, "covered": true, "partner": 173}
+{"ix": 73, "image": "000000236914.jpg", "captions": ["A photo of a chair to the left of a bottle", "A photo of a chair to the right of a bottle"], "correct": 0, "covered": true, "partner": 174}
+{"ix": 74, "image": "000000136355.jpg", "captions": ["A photo of a dining table to the left of a refrigerator", "A photo of a dining table to the right of a refrigerator"], "correct": 0, "covered": true, "partner": 175}
+{"ix": 75, "image": "000000479448.jpg", "captions": ["A photo of a orange below a cup", "A photo of a orange above a cup"], "correct": 0, "covered": true, "partner": 176}
+{"ix": 76, "image": "000000558854.jpg", "captions": ["A photo of a person above a bowl", "A photo of a person below a bowl"], "correct": 0, "covered": true, "partner": 177}
+{"ix": 77, "image": "000000558854.jpg", "captions": ["A photo of a cup to the right of a bowl", "A photo of a cup to the left of a bowl"], "correct": 0, "covered": true, "partner": 178}
+{"ix": 78, "image": "000000533206.jpg", "captions": ["A photo of a bottle to the left of a sandwich", "A photo of a bottle to the right of a sandwich"], "correct": 0, "covered": true, "partner": 179}
+{"ix": 79, "image": "000000533206.jpg", "captions": ["A photo of a bottle to the left of a bowl", "A photo of a bottle to the right of a bowl"], "correct": 0, "covered": true, "partner": 180}
+{"ix": 80, "image": "000000029596.jpg", "captions": ["A photo of a tv to the right of a couch", "A photo of a tv to the left of a couch"], "correct": 0, "covered": true, "partner": 181}
+{"ix": 81, "image": "000000026465.jpg", "captions": ["A photo of a chair to the right of a person", "A photo of a chair to the left of a person"], "correct": 0, "covered": true, "partner": 182}
+{"ix": 82, "image": "000000026465.jpg", "captions": ["A photo of a chair above a keyboard", "A photo of a chair below a keyboard"], "correct": 0, "covered": true, "partner": 183}
+{"ix": 83, "image": "000000429011.jpg", "captions": ["A photo of a car to the right of a truck", "A photo of a car to the left of a truck"], "correct": 0, "covered": true, "partner": 184}
+{"ix": 84, "image": "000000301061.jpg", "captions": ["A photo of a person to the left of a elephant", "A photo of a person to the right of a elephant"], "correct": 0, "covered": true, "partner": 185}
+{"ix": 85, "image": "000000018575.jpg", "captions": ["A photo of a bowl to the right of a sandwich", "A photo of a bowl to the left of a sandwich"], "correct": 0, "covered": true, "partner": 186}
+{"ix": 86, "image": "000000442323.jpg", "captions": ["A photo of a tv to the left of a bed", "A photo of a tv to the right of a bed"], "correct": 0, "covered": true, "partner": 187}
+{"ix": 87, "image": "000000442323.jpg", "captions": ["A photo of a tv above a bed", "A photo of a tv below a bed"], "correct": 0, "covered": true, "partner": 188}
+{"ix": 88, "image": "000000013923.jpg", "captions": ["A photo of a couch to the left of a dining table", "A photo of a couch to the right of a dining table"], "correct": 0, "covered": true, "partner": 189}
+{"ix": 89, "image": "000000559543.jpg", "captions": ["A photo of a couch to the right of a person", "A photo of a couch to the left of a person"], "correct": 0, "covered": true, "partner": 190}
+{"ix": 90, "image": "000000559543.jpg", "captions": ["A photo of a couch to the right of a chair", "A photo of a couch to the left of a chair"], "correct": 0, "covered": true, "partner": 191}
+{"ix": 91, "image": "000000429598.jpg", "captions": ["A photo of a refrigerator to the left of a oven", "A photo of a refrigerator to the right of a oven"], "correct": 0, "covered": false, "partner": 192}
+{"ix": 92, "image": "000000062025.jpg", "captions": ["A photo of a toilet below a sink", "A photo of a toilet above a sink"], "correct": 0, "covered": true, "partner": 193}
+{"ix": 93, "image": "000000198510.jpg", "captions": ["A photo of a train to the left of a person", "A photo of a train to the right of a person"], "correct": 0, "covered": true, "partner": 194}
+{"ix": 94, "image": "000000407960.jpg", "captions": ["A photo of a cat to the left of a oven", "A photo of a cat to the right of a oven"], "correct": 0, "covered": false, "partner": 195}
+{"ix": 95, "image": "000000213547.jpg", "captions": ["A photo of a horse to the right of a refrigerator", "A photo of a horse to the left of a refrigerator"], "correct": 0, "covered": true, "partner": 196}
+{"ix": 96, "image": "000000073946.jpg", "captions": ["A photo of a surfboard to the right of a bed", "A photo of a surfboard to the left of a bed"], "correct": 0, "covered": true, "partner": 197}
+{"ix": 97, "image": "000000050828.jpg", "captions": ["A photo of a bed to the right of a chair", "A photo of a bed to the left of a chair"], "correct": 0, "covered": true, "partner": 198}
+{"ix": 98, "image": "000000163611.jpg", "captions": ["A photo of a cup above a fork", "A photo of a cup below a fork"], "correct": 0, "covered": true, "partner": 199}
+{"ix": 99, "image": "000000163611.jpg", "captions": ["A photo of a fork below a dining table", "A photo of a fork above a dining table"], "correct": 0, "covered": true, "partner": 200}
+{"ix": 100, "image": "000000032038.jpg", "captions": ["A photo of a person above a dining table", "A photo of a person below a dining table"], "correct": 0, "covered": true, "partner": 201}
+{"ix": 101, "image": "000000346638.jpg", "captions": ["A photo of a tv to the right of a mouse", "A photo of a tv to the left of a mouse"], "correct": 0, "covered": true, "partner": 202}
+{"ix": 102, "image": "000000346638.jpg", "captions": ["A photo of a tv above a mouse", "A photo of a tv below a mouse"], "correct": 0, "covered": true, "partner": 203}
+{"ix": 103, "image": "000000346638.jpg", "captions": ["A photo of a tv above a keyboard", "A photo of a tv below a keyboard"], "correct": 0, "covered": true, "partner": 204}
+{"ix": 104, "image": "000000346638.jpg", "captions": ["A photo of a bottle to the right of a mouse", "A photo of a bottle to the left of a mouse"], "correct": 0, "covered": true, "partner": 205}
+{"ix": 105, "image": "000000280930.jpg", "captions": ["A photo of a person to the right of a oven", "A photo of a person to the left of a oven"], "correct": 0, "covered": false, "partner": 206}
+{"ix": 106, "image": "000000280930.jpg", "captions": ["A photo of a oven to the left of a refrigerator", "A photo of a oven to the right of a refrigerator"], "correct": 0, "covered": true, "partner": 207}
+{"ix": 107, "image": "000000110884.jpg", "captions": ["A photo of a toilet to the right of a sink", "A photo of a toilet to the left of a sink"], "correct": 0, "covered": true, "partner": 208}
+{"ix": 108, "image": "000000077396.jpg", "captions": ["A photo of a tv above a dining table", "A photo of a tv below a dining table"], "correct": 0, "covered": true, "partner": 209}
+{"ix": 109, "image": "000000305343.jpg", "captions": ["A photo of a dog to the right of a cup", "A photo of a dog to the left of a cup"], "correct": 0, "covered": true, "partner": 210}
+{"ix": 110, "image": "000000567825.jpg", "captions": ["A photo of a bottle to the left of a wine glass", "A photo of a bottle to the right of a wine glass"], "correct": 0, "covered": true, "partner": 211}
+{"ix": 111, "image": "000000001425.jpg", "captions": ["A photo of a sandwich to the left of a bowl", "A photo of a sandwich to the right of a bowl"], "correct": 0, "covered": true, "partner": 212}
+{"ix": 112, "image": "000000040757.jpg", "captions": ["A photo of a person below a tv", "A photo of a person above a tv"], "correct": 0, "covered": false, "partner": 213}
+{"ix": 113, "image": "000000040757.jpg", "captions": ["A photo of a bed below a tv", "A photo of a bed above a tv"], "correct": 0, "covered": false, "partner": 214}
+{"ix": 114, "image": "000000035279.jpg", "captions": ["A photo of a person to the left of a tennis racket", "A photo of a person to the right of a tennis racket"], "correct": 0, "covered": true, "partner": 215}
+{"ix": 115, "image": "000000035279.jpg", "captions": ["A photo of a person to the left of a handbag", "A photo of a person to the right of a handbag"], "correct": 0, "covered": true, "partner": 216}
+{"ix": 116, "image": "000000035279.jpg", "captions": ["A photo of a person below a handbag", "A photo of a person above a handbag"], "correct": 0, "covered": true, "partner": 217}
+{"ix": 117, "image": "000000035279.jpg", "captions": ["A photo of a person to the left of a bottle", "A photo of a person to the right of a bottle"], "correct": 0, "covered": true, "partner": 218}
+{"ix": 118, "image": "000000035279.jpg", "captions": ["A photo of a person below a bottle", "A photo of a person above a bottle"], "correct": 0, "covered": true, "partner": 219}
+{"ix": 119, "image": "000000035279.jpg", "captions": ["A photo of a laptop to the left of a bottle", "A photo of a laptop to the right of a bottle"], "correct": 0, "covered": true, "partner": 220}
+{"ix": 120, "image": "000000413247.jpg", "captions": ["A photo of a laptop to the left of a book", "A photo of a laptop to the right of a book"], "correct": 0, "covered": true, "partner": 221}
+{"ix": 121, "image": "000000413247.jpg", "captions": ["A photo of a laptop to the left of a backpack", "A photo of a laptop to the right of a backpack"], "correct": 0, "covered": true, "partner": 222}
+{"ix": 122, "image": "000000300039.jpg", "captions": ["A photo of a person to the left of a dining table", "A photo of a person to the right of a dining table"], "correct": 0, "covered": true, "partner": 223}
+{"ix": 123, "image": "000000060835.jpg", "captions": ["A photo of a bowl to the right of a bed", "A photo of a bowl to the left of a bed"], "correct": 0, "covered": true, "partner": 224}
+{"ix": 124, "image": "000000277051.jpg", "captions": ["A photo of a knife below a bottle", "A photo of a knife above a bottle"], "correct": 0, "covered": true, "partner": 225}
+{"ix": 125, "image": "000000082696.jpg", "captions": ["A photo of a bird below a person", "A photo of a bird above a person"], "correct": 0, "covered": true, "partner": 226}
+{"ix": 126, "image": "000000449661.jpg", "captions": ["A photo of a person to the right of a chair", "A photo of a person to the left of a chair"], "correct": 0, "covered": true, "partner": 227}
+{"ix": 127, "image": "000000527427.jpg", "captions": ["A photo of a chair to the right of a dining table", "A photo of a chair to the left of a dining table"], "correct": 0, "covered": true, "partner": 228}
+{"ix": 128, "image": "000000206487.jpg", "captions": ["A photo of a bus to the left of a truck", "A photo of a bus to the right of a truck"], "correct": 0, "covered": true, "partner": 229}
+{"ix": 129, "image": "000000166664.jpg", "captions": ["A photo of a car to the left of a elephant", "A photo of a car to the right of a elephant"], "correct": 0, "covered": true, "partner": 230}
+{"ix": 130, "image": "000000396729.jpg", "captions": ["A photo of a remote below a bowl", "A photo of a remote above a bowl"], "correct": 0, "covered": true, "partner": 231}
+{"ix": 131, "image": "000000396729.jpg", "captions": ["A photo of a book below a bowl", "A photo of a book above a bowl"], "correct": 0, "covered": true, "partner": 232}
+{"ix": 132, "image": "000000313130.jpg", "captions": ["A photo of a refrigerator to the left of a microwave", "A photo of a refrigerator to the right of a microwave"], "correct": 0, "covered": true, "partner": 233}
+{"ix": 133, "image": "000000562843.jpg", "captions": ["A photo of a cup above a scissors", "A photo of a cup below a scissors"], "correct": 0, "covered": true, "partner": 234}
+{"ix": 134, "image": "000000216497.jpg", "captions": ["A photo of a couch to the left of a dining table", "A photo of a couch to the right of a dining table"], "correct": 0, "covered": true, "partner": 235}
+{"ix": 135, "image": "000000078823.jpg", "captions": ["A photo of a dog to the right of a potted plant", "A photo of a dog to the left of a potted plant"], "correct": 0, "covered": true, "partner": 236}
+{"ix": 136, "image": "000000203580.jpg", "captions": ["A photo of a umbrella above a bench", "A photo of a umbrella below a bench"], "correct": 0, "covered": true, "partner": 237}
+{"ix": 137, "image": "000000546626.jpg", "captions": ["A photo of a bottle to the left of a cell phone", "A photo of a bottle to the right of a cell phone"], "correct": 0, "covered": true, "partner": 238}
+{"ix": 138, "image": "000000047769.jpg", "captions": ["A photo of a tv to the right of a couch", "A photo of a tv to the left of a couch"], "correct": 0, "covered": true, "partner": 239}
+{"ix": 139, "image": "000000001503.jpg", "captions": ["A photo of a laptop to the left of a keyboard", "A photo of a laptop to the right of a keyboard"], "correct": 0, "covered": true, "partner": 240}
+{"ix": 140, "image": "000000001503.jpg", "captions": ["A photo of a keyboard below a tv", "A photo of a keyboard above a tv"], "correct": 0, "covered": false, "partner": 241}
+{"ix": 141, "image": "000000384661.jpg", "captions": ["A photo of a refrigerator to the right of a oven", "A photo of a refrigerator to the left of a oven"], "correct": 0, "covered": false, "partner": 242}
+{"ix": 142, "image": "000000052996.jpg", "captions": ["A photo of a refrigerator to the right of a dining table", "A photo of a refrigerator to the left of a dining table"], "correct": 0, "covered": true, "partner": 243}
+{"ix": 143, "image": "000000522007.jpg", "captions": ["A photo of a potted plant to the left of a microwave", "A photo of a potted plant to the right of a microwave"], "correct": 0, "covered": true, "partner": 244}
+{"ix": 144, "image": "000000522007.jpg", "captions": ["A photo of a potted plant to the left of a oven", "A photo of a potted plant to the right of a oven"], "correct": 0, "covered": false, "partner": 245}
+{"ix": 145, "image": "000000423123.jpg", "captions": ["A photo of a refrigerator to the right of a backpack", "A photo of a refrigerator to the left of a backpack"], "correct": 0, "covered": true, "partner": 246}
+{"ix": 146, "image": "000000232649.jpg", "captions": ["A photo of a toilet to the right of a person", "A photo of a toilet to the left of a person"], "correct": 0, "covered": true, "partner": 247}
+{"ix": 147, "image": "000000232649.jpg", "captions": ["A photo of a toilet below a person", "A photo of a toilet above a person"], "correct": 0, "covered": true, "partner": 248}
+{"ix": 148, "image": "000000232649.jpg", "captions": ["A photo of a sink below a person", "A photo of a sink above a person"], "correct": 0, "covered": true, "partner": 249}
+{"ix": 149, "image": "000000193926.jpg", "captions": ["A photo of a bicycle above a backpack", "A photo of a bicycle below a backpack"], "correct": 0, "covered": true, "partner": 250}
+{"ix": 150, "image": "000000193926.jpg", "captions": ["A photo of a bicycle to the right of a bowl", "A photo of a bicycle to the left of a bowl"], "correct": 0, "covered": true, "partner": 251}
+{"ix": 151, "image": "000000193926.jpg", "captions": ["A photo of a backpack to the right of a bowl", "A photo of a backpack to the left of a bowl"], "correct": 0, "covered": true, "partner": 252}
+{"ix": 152, "image": "000000575187.jpg", "captions": ["A photo of a person to the left of a giraffe", "A photo of a person to the right of a giraffe"], "correct": 0, "covered": true, "partner": 253}
+{"ix": 153, "image": "000000468505.jpg", "captions": ["A photo of a dining table below a person", "A photo of a dining table above a person"], "correct": 0, "covered": true, "partner": 254}
+{"ix": 154, "image": "000000120853.jpg", "captions": ["A photo of a cup to the left of a bowl", "A photo of a cup to the right of a bowl"], "correct": 0, "covered": true, "partner": 255}
+{"ix": 155, "image": "000000301421.jpg", "captions": ["A photo of a tv above a laptop", "A photo of a tv below a laptop"], "correct": 0, "covered": true, "partner": 256}
+{"ix": 156, "image": "000000445658.jpg", "captions": ["A photo of a refrigerator to the left of a oven", "A photo of a refrigerator to the right of a oven"], "correct": 0, "covered": false, "partner": 257}
+{"ix": 157, "image": "000000520009.jpg", "captions": ["A photo of a car to the left of a bus", "A photo of a car to the right of a bus"], "correct": 0, "covered": true, "partner": 258}
+{"ix": 158, "image": "000000356612.jpg", "captions": ["A photo of a bus to the left of a truck", "A photo of a bus to the right of a truck"], "correct": 0, "covered": true, "partner": 259}
+{"ix": 159, "image": "000000382030.jpg", "captions": ["A photo of a umbrella to the right of a sports ball", "A photo of a umbrella to the left of a sports ball"], "correct": 0, "covered": true, "partner": 260}
+{"ix": 160, "image": "000000082807.jpg", "captions": ["A photo of a dog above a cake", "A photo of a dog below a cake"], "correct": 0, "covered": true, "partner": 261}
+{"ix": 161, "image": "000000082807.jpg", "captions": ["A photo of a chair above a cake", "A photo of a chair below a cake"], "correct": 0, "covered": true, "partner": 262}
+{"ix": 162, "image": "000000279769.jpg", "captions": ["A photo of a banana to the left of a dining table", "A photo of a banana to the right of a dining table"], "correct": 0, "covered": true, "partner": 263}
+{"ix": 163, "image": "000000302030.jpg", "captions": ["A photo of a tv to the right of a laptop", "A photo of a tv to the left of a laptop"], "correct": 0, "covered": true, "partner": 264}
+{"ix": 164, "image": "000000302030.jpg", "captions": ["A photo of a tv above a laptop", "A photo of a tv below a laptop"], "correct": 0, "covered": true, "partner": 265}
+{"ix": 165, "image": "000000046031.jpg", "captions": ["A photo of a laptop to the right of a tv", "A photo of a laptop to the left of a tv"], "correct": 0, "covered": false, "partner": 266}
+{"ix": 166, "image": "000000000802.jpg", "captions": ["A photo of a refrigerator to the right of a oven", "A photo of a refrigerator to the left of a oven"], "correct": 0, "covered": false, "partner": 267}
+{"ix": 167, "image": "000000257169.jpg", "captions": ["A photo of a toilet below a person", "A photo of a toilet above a person"], "correct": 0, "covered": true, "partner": 268}
+{"ix": 168, "image": "000000173091.jpg", "captions": ["A photo of a bottle to the right of a apple", "A photo of a bottle to the left of a apple"], "correct": 0, "covered": true, "partner": 269}
+{"ix": 169, "image": "000000173091.jpg", "captions": ["A photo of a bottle to the right of a sandwich", "A photo of a bottle to the left of a sandwich"], "correct": 0, "covered": true, "partner": 270}
+{"ix": 170, "image": "000000091615.jpg", "captions": ["A photo of a oven to the right of a sink", "A photo of a oven to the left of a sink"], "correct": 0, "covered": true, "partner": 271}
+{"ix": 171, "image": "000000091615.jpg", "captions": ["A photo of a oven below a microwave", "A photo of a oven above a microwave"], "correct": 0, "covered": true, "partner": 272}
+{"ix": 172, "image": "000000091615.jpg", "captions": ["A photo of a sink to the left of a microwave", "A photo of a sink to the right of a microwave"], "correct": 0, "covered": true, "partner": 273}
+{"ix": 173, "image": "000000091615.jpg", "captions": ["A photo of a sink below a microwave", "A photo of a sink above a microwave"], "correct": 0, "covered": true, "partner": 274}
+{"ix": 174, "image": "000000495146.jpg", "captions": ["A photo of a car below a train", "A photo of a car above a train"], "correct": 0, "covered": true, "partner": 275}
+{"ix": 175, "image": "000000495146.jpg", "captions": ["A photo of a car to the right of a truck", "A photo of a car to the left of a truck"], "correct": 0, "covered": true, "partner": 276}
+{"ix": 176, "image": "000000528399.jpg", "captions": ["A photo of a sandwich above a dining table", "A photo of a sandwich below a dining table"], "correct": 0, "covered": true, "partner": 277}
+{"ix": 177, "image": "000000497628.jpg", "captions": ["A photo of a bed above a couch", "A photo of a bed below a couch"], "correct": 0, "covered": true, "partner": 278}
+{"ix": 178, "image": "000000248400.jpg", "captions": ["A photo of a person to the left of a pizza", "A photo of a person to the right of a pizza"], "correct": 0, "covered": true, "partner": 279}
+{"ix": 179, "image": "000000371749.jpg", "captions": ["A photo of a couch below a dog", "A photo of a couch above a dog"], "correct": 0, "covered": true, "partner": 280}
+{"ix": 180, "image": "000000485844.jpg", "captions": ["A photo of a refrigerator above a dining table", "A photo of a refrigerator below a dining table"], "correct": 0, "covered": true, "partner": 281}
+{"ix": 181, "image": "000000037670.jpg", "captions": ["A photo of a person to the right of a toilet", "A photo of a person to the left of a toilet"], "correct": 0, "covered": true, "partner": 282}
+{"ix": 182, "image": "000000169076.jpg", "captions": ["A photo of a dog below a tv", "A photo of a dog above a tv"], "correct": 0, "covered": false, "partner": 283}
+{"ix": 183, "image": "000000169076.jpg", "captions": ["A photo of a tv above a cat", "A photo of a tv below a cat"], "correct": 0, "covered": true, "partner": 284}
+{"ix": 184, "image": "000000198489.jpg", "captions": ["A photo of a potted plant to the left of a car", "A photo of a potted plant to the right of a car"], "correct": 0, "covered": true, "partner": 285}
+{"ix": 185, "image": "000000198489.jpg", "captions": ["A photo of a potted plant above a umbrella", "A photo of a potted plant below a umbrella"], "correct": 0, "covered": true, "partner": 286}
+{"ix": 186, "image": "000000198489.jpg", "captions": ["A photo of a car above a umbrella", "A photo of a car below a umbrella"], "correct": 0, "covered": true, "partner": 287}
+{"ix": 187, "image": "000000283412.jpg", "captions": ["A photo of a cup to the left of a bed", "A photo of a cup to the right of a bed"], "correct": 0, "covered": true, "partner": 288}
+{"ix": 188, "image": "000000283412.jpg", "captions": ["A photo of a cup below a bed", "A photo of a cup above a bed"], "correct": 0, "covered": true, "partner": 289}
+{"ix": 189, "image": "000000450100.jpg", "captions": ["A photo of a spoon below a cup", "A photo of a spoon above a cup"], "correct": 0, "covered": true, "partner": 290}
+{"ix": 190, "image": "000000001993.jpg", "captions": ["A photo of a bed to the right of a dining table", "A photo of a bed to the left of a dining table"], "correct": 0, "covered": true, "partner": 291}
+{"ix": 191, "image": "000000488166.jpg", "captions": ["A photo of a dining table below a person", "A photo of a dining table above a person"], "correct": 0, "covered": true, "partner": 292}
+{"ix": 192, "image": "000000488166.jpg", "captions": ["A photo of a person above a pizza", "A photo of a person below a pizza"], "correct": 0, "covered": true, "partner": 293}
+{"ix": 193, "image": "000000488166.jpg", "captions": ["A photo of a person above a sandwich", "A photo of a person below a sandwich"], "correct": 0, "covered": true, "partner": 294}
+{"ix": 194, "image": "000000488166.jpg", "captions": ["A photo of a pizza to the left of a cup", "A photo of a pizza to the right of a cup"], "correct": 0, "covered": true, "partner": 295}
+{"ix": 195, "image": "000000488166.jpg", "captions": ["A photo of a cup to the right of a sandwich", "A photo of a cup to the left of a sandwich"], "correct": 0, "covered": true, "partner": 296}
+{"ix": 196, "image": "000000575081.jpg", "captions": ["A photo of a tv to the right of a person", "A photo of a tv to the left of a person"], "correct": 0, "covered": true, "partner": 297}
+{"ix": 197, "image": "000000546717.jpg", "captions": ["A photo of a potted plant above a laptop", "A photo of a potted plant below a laptop"], "correct": 0, "covered": true, "partner": 298}
+{"ix": 198, "image": "000000160556.jpg", "captions": ["A photo of a person to the right of a microwave", "A photo of a person to the left of a microwave"], "correct": 0, "covered": true, "partner": 299}
+{"ix": 199, "image": "000000265518.jpg", "captions": ["A photo of a cup to the left of a sandwich", "A photo of a cup to the right of a sandwich"], "correct": 0, "covered": true, "partner": 300}
+{"ix": 200, "image": "000000400082.jpg", "captions": ["A photo of a cup to the right of a hot dog", "A photo of a cup to the left of a hot dog"], "correct": 0, "covered": true, "partner": 301}
+{"ix": 201, "image": "000000400082.jpg", "captions": ["A photo of a cup to the right of a book", "A photo of a cup to the left of a book"], "correct": 0, "covered": true, "partner": 302}
+{"ix": 202, "image": "000000300233.jpg", "captions": ["A photo of a bowl to the left of a bottle", "A photo of a bowl to the right of a bottle"], "correct": 0, "covered": true, "partner": 303}
+{"ix": 203, "image": "000000300233.jpg", "captions": ["A photo of a bowl below a bottle", "A photo of a bowl above a bottle"], "correct": 0, "covered": true, "partner": 304}
+{"ix": 204, "image": "000000464476.jpg", "captions": ["A photo of a train to the right of a person", "A photo of a train to the left of a person"], "correct": 0, "covered": true, "partner": 305}
+{"ix": 205, "image": "000000393569.jpg", "captions": ["A photo of a person to the right of a toilet", "A photo of a person to the left of a toilet"], "correct": 0, "covered": true, "partner": 306}
+{"ix": 206, "image": "000000224200.jpg", "captions": ["A photo of a dog to the left of a fire hydrant", "A photo of a dog to the right of a fire hydrant"], "correct": 0, "covered": true, "partner": 307}
+{"ix": 207, "image": "000000022892.jpg", "captions": ["A photo of a dog to the left of a dining table", "A photo of a dog to the right of a dining table"], "correct": 0, "covered": true, "partner": 308}
+{"ix": 208, "image": "000000022892.jpg", "captions": ["A photo of a dog to the left of a chair", "A photo of a dog to the right of a chair"], "correct": 0, "covered": true, "partner": 309}
+{"ix": 209, "image": "000000054931.jpg", "captions": ["A photo of a horse to the left of a person", "A photo of a horse to the right of a person"], "correct": 0, "covered": true, "partner": 310}
+{"ix": 210, "image": "000000092053.jpg", "captions": ["A photo of a sandwich above a donut", "A photo of a sandwich below a donut"], "correct": 0, "covered": true, "partner": 311}
+{"ix": 211, "image": "000000092053.jpg", "captions": ["A photo of a sandwich to the left of a dining table", "A photo of a sandwich to the right of a dining table"], "correct": 0, "covered": true, "partner": 312}
+{"ix": 212, "image": "000000092053.jpg", "captions": ["A photo of a donut to the left of a dining table", "A photo of a donut to the right of a dining table"], "correct": 0, "covered": true, "partner": 313}
+{"ix": 213, "image": "000000368684.jpg", "captions": ["A photo of a bed below a chair", "A photo of a bed above a chair"], "correct": 0, "covered": true, "partner": 314}
+{"ix": 214, "image": "000000305609.jpg", "captions": ["A photo of a dining table below a person", "A photo of a dining table above a person"], "correct": 0, "covered": true, "partner": 315}
+{"ix": 215, "image": "000000407614.jpg", "captions": ["A photo of a potted plant to the left of a surfboard", "A photo of a potted plant to the right of a surfboard"], "correct": 0, "covered": true, "partner": 316}
+{"ix": 216, "image": "000000407614.jpg", "captions": ["A photo of a refrigerator to the left of a surfboard", "A photo of a refrigerator to the right of a surfboard"], "correct": 0, "covered": true, "partner": 317}
+{"ix": 217, "image": "000000261161.jpg", "captions": ["A photo of a dog to the right of a bench", "A photo of a dog to the left of a bench"], "correct": 0, "covered": true, "partner": 318}
+{"ix": 218, "image": "000000006763.jpg", "captions": ["A photo of a tv above a dining table", "A photo of a tv below a dining table"], "correct": 0, "covered": true, "partner": 319}
+{"ix": 219, "image": "000000509699.jpg", "captions": ["A photo of a tv to the right of a chair", "A photo of a tv to the left of a chair"], "correct": 0, "covered": true, "partner": 320}
+{"ix": 220, "image": "000000040471.jpg", "captions": ["A photo of a refrigerator to the right of a oven", "A photo of a refrigerator to the left of a oven"], "correct": 0, "covered": false, "partner": 321}
+{"ix": 221, "image": "000000144003.jpg", "captions": ["A photo of a refrigerator to the left of a chair", "A photo of a refrigerator to the right of a chair"], "correct": 0, "covered": true, "partner": 322}
+{"ix": 222, "image": "000000142585.jpg", "captions": ["A photo of a bus to the left of a truck", "A photo of a bus to the right of a truck"], "correct": 0, "covered": true, "partner": 323}
+{"ix": 223, "image": "000000316015.jpg", "captions": ["A photo of a tv above a keyboard", "A photo of a tv below a keyboard"], "correct": 0, "covered": true, "partner": 324}
+{"ix": 224, "image": "000000001675.jpg", "captions": ["A photo of a cat above a keyboard", "A photo of a cat below a keyboard"], "correct": 0, "covered": true, "partner": 325}
+{"ix": 225, "image": "000000251572.jpg", "captions": ["A photo of a dog to the right of a couch", "A photo of a dog to the left of a couch"], "correct": 0, "covered": true, "partner": 326}
+{"ix": 226, "image": "000000452784.jpg", "captions": ["A photo of a person above a bowl", "A photo of a person below a bowl"], "correct": 0, "covered": true, "partner": 327}
+{"ix": 227, "image": "000000010092.jpg", "captions": ["A photo of a bed to the left of a dining table", "A photo of a bed to the right of a dining table"], "correct": 0, "covered": true, "partner": 328}
+{"ix": 228, "image": "000000395701.jpg", "captions": ["A photo of a chair to the right of a couch", "A photo of a chair to the left of a couch"], "correct": 0, "covered": true, "partner": 329}
+{"ix": 229, "image": "000000542776.jpg", "captions": ["A photo of a bird to the left of a bed", "A photo of a bird to the right of a bed"], "correct": 0, "covered": true, "partner": 330}
+{"ix": 230, "image": "000000180487.jpg", "captions": ["A photo of a umbrella above a dining table", "A photo of a umbrella below a dining table"], "correct": 0, "covered": true, "partner": 331}
+{"ix": 231, "image": "000000370478.jpg", "captions": ["A photo of a bed to the left of a backpack", "A photo of a bed to the right of a backpack"], "correct": 0, "covered": true, "partner": 332}
+{"ix": 232, "image": "000000370478.jpg", "captions": ["A photo of a bed to the left of a suitcase", "A photo of a bed to the right of a suitcase"], "correct": 0, "covered": true, "partner": 333}
+{"ix": 233, "image": "000000370478.jpg", "captions": ["A photo of a laptop to the left of a suitcase", "A photo of a laptop to the right of a suitcase"], "correct": 0, "covered": true, "partner": 334}
+{"ix": 234, "image": "000000255912.jpg", "captions": ["A photo of a broccoli to the left of a bottle", "A photo of a broccoli to the right of a bottle"], "correct": 0, "covered": true, "partner": 335}
+{"ix": 235, "image": "000000255912.jpg", "captions": ["A photo of a broccoli below a bottle", "A photo of a broccoli above a bottle"], "correct": 0, "covered": true, "partner": 336}
+{"ix": 236, "image": "000000569059.jpg", "captions": ["A photo of a tv above a chair", "A photo of a tv below a chair"], "correct": 0, "covered": true, "partner": 337}
+{"ix": 237, "image": "000000568584.jpg", "captions": ["A photo of a couch to the left of a chair", "A photo of a couch to the right of a chair"], "correct": 0, "covered": true, "partner": 338}
+{"ix": 238, "image": "000000568584.jpg", "captions": ["A photo of a couch to the left of a person", "A photo of a couch to the right of a person"], "correct": 0, "covered": true, "partner": 339}
+{"ix": 239, "image": "000000335658.jpg", "captions": ["A photo of a mouse to the right of a keyboard", "A photo of a mouse to the left of a keyboard"], "correct": 0, "covered": true, "partner": 340}
+{"ix": 240, "image": "000000357816.jpg", "captions": ["A photo of a car above a bench", "A photo of a car below a bench"], "correct": 0, "covered": true, "partner": 341}
+{"ix": 241, "image": "000000027620.jpg", "captions": ["A photo of a chair below a laptop", "A photo of a chair above a laptop"], "correct": 0, "covered": true, "partner": 342}
+{"ix": 242, "image": "000000051610.jpg", "captions": ["A photo of a person to the right of a laptop", "A photo of a person to the left of a laptop"], "correct": 0, "covered": true, "partner": 343}
+{"ix": 243, "image": "000000182202.jpg", "captions": ["A photo of a cell phone below a keyboard", "A photo of a cell phone above a keyboard"], "correct": 0, "covered": true, "partner": 344}
+{"ix": 244, "image": "000000042889.jpg", "captions": ["A photo of a keyboard below a teddy bear", "A photo of a keyboard above a teddy bear"], "correct": 0, "covered": true, "partner": 345}
+{"ix": 245, "image": "000000030213.jpg", "captions": ["A photo of a refrigerator to the right of a oven", "A photo of a refrigerator to the left of a oven"], "correct": 0, "covered": false, "partner": 346}
+{"ix": 246, "image": "000000030213.jpg", "captions": ["A photo of a refrigerator to the right of a dining table", "A photo of a refrigerator to the left of a dining table"], "correct": 0, "covered": true, "partner": 347}
+{"ix": 247, "image": "000000030213.jpg", "captions": ["A photo of a chair to the right of a oven", "A photo of a chair to the left of a oven"], "correct": 0, "covered": false, "partner": 348}
+{"ix": 248, "image": "000000030213.jpg", "captions": ["A photo of a chair below a oven", "A photo of a chair above a oven"], "correct": 0, "covered": false, "partner": 349}
+{"ix": 249, "image": "000000551660.jpg", "captions": ["A photo of a cup above a bowl", "A photo of a cup below a bowl"], "correct": 0, "covered": true, "partner": 350}
+{"ix": 250, "image": "000000534041.jpg", "captions": ["A photo of a handbag above a bottle", "A photo of a handbag below a bottle"], "correct": 0, "covered": true, "partner": 351}
+{"ix": 251, "image": "000000014038.jpg", "captions": ["A photo of a dining table to the right of a refrigerator", "A photo of a dining table to the left of a refrigerator"], "correct": 0, "covered": true, "partner": 352}
+{"ix": 252, "image": "000000424162.jpg", "captions": ["A photo of a dog below a truck", "A photo of a dog above a truck"], "correct": 0, "covered": true, "partner": 353}
+{"ix": 253, "image": "000000267903.jpg", "captions": ["A photo of a toilet to the right of a sink", "A photo of a toilet to the left of a sink"], "correct": 0, "covered": true, "partner": 354}
+{"ix": 254, "image": "000000267903.jpg", "captions": ["A photo of a toilet below a sink", "A photo of a toilet above a sink"], "correct": 0, "covered": true, "partner": 355}
+{"ix": 255, "image": "000000003661.jpg", "captions": ["A photo of a banana to the left of a cup", "A photo of a banana to the right of a cup"], "correct": 0, "covered": true, "partner": 356}
+{"ix": 256, "image": "000000376365.jpg", "captions": ["A photo of a vase to the right of a cup", "A photo of a vase to the left of a cup"], "correct": 0, "covered": true, "partner": 357}
+{"ix": 257, "image": "000000376365.jpg", "captions": ["A photo of a cup to the left of a potted plant", "A photo of a cup to the right of a potted plant"], "correct": 0, "covered": true, "partner": 358}
+{"ix": 258, "image": "000000227399.jpg", "captions": ["A photo of a motorcycle to the right of a train", "A photo of a motorcycle to the left of a train"], "correct": 0, "covered": true, "partner": 359}
+{"ix": 259, "image": "000000432468.jpg", "captions": ["A photo of a cat above a suitcase", "A photo of a cat below a suitcase"], "correct": 0, "covered": true, "partner": 360}
+{"ix": 260, "image": "000000329319.jpg", "captions": ["A photo of a chair to the right of a dining table", "A photo of a chair to the left of a dining table"], "correct": 0, "covered": true, "partner": 361}
+{"ix": 261, "image": "000000329319.jpg", "captions": ["A photo of a bench to the right of a dining table", "A photo of a bench to the left of a dining table"], "correct": 0, "covered": true, "partner": 362}
+{"ix": 262, "image": "000000364297.jpg", "captions": ["A photo of a keyboard below a tv", "A photo of a keyboard above a tv"], "correct": 0, "covered": false, "partner": 363}
+{"ix": 263, "image": "000000047819.jpg", "captions": ["A photo of a horse to the right of a person", "A photo of a horse to the left of a person"], "correct": 0, "covered": true, "partner": 364}
+{"ix": 264, "image": "000000416885.jpg", "captions": ["A photo of a sandwich below a car", "A photo of a sandwich above a car"], "correct": 0, "covered": true, "partner": 365}
+{"ix": 265, "image": "000000455937.jpg", "captions": ["A photo of a tv to the right of a person", "A photo of a tv to the left of a person"], "correct": 0, "covered": true, "partner": 366}
+{"ix": 266, "image": "000000248631.jpg", "captions": ["A photo of a laptop to the left of a mouse", "A photo of a laptop to the right of a mouse"], "correct": 0, "covered": true, "partner": 367}
+{"ix": 267, "image": "000000529568.jpg", "captions": ["A photo of a dining table to the left of a sink", "A photo of a dining table to the right of a sink"], "correct": 0, "covered": true, "partner": 368}
+{"ix": 268, "image": "000000575970.jpg", "captions": ["A photo of a dining table to the right of a refrigerator", "A photo of a dining table to the left of a refrigerator"], "correct": 0, "covered": true, "partner": 369}
+{"ix": 269, "image": "000000240940.jpg", "captions": ["A photo of a tv to the right of a refrigerator", "A photo of a tv to the left of a refrigerator"], "correct": 0, "covered": true, "partner": 370}
+{"ix": 270, "image": "000000240940.jpg", "captions": ["A photo of a tv above a cat", "A photo of a tv below a cat"], "correct": 0, "covered": true, "partner": 371}
+{"ix": 271, "image": "000000240940.jpg", "captions": ["A photo of a refrigerator to the left of a cat", "A photo of a refrigerator to the right of a cat"], "correct": 0, "covered": true, "partner": 372}
+{"ix": 272, "image": "000000240940.jpg", "captions": ["A photo of a refrigerator above a cat", "A photo of a refrigerator below a cat"], "correct": 0, "covered": true, "partner": 373}
+{"ix": 273, "image": "000000520531.jpg", "captions": ["A photo of a cat to the right of a chair", "A photo of a cat to the left of a chair"], "correct": 0, "covered": true, "partner": 374}
+{"ix": 274, "image": "000000078420.jpg", "captions": ["A photo of a cat below a chair", "A photo of a cat above a chair"], "correct": 0, "covered": true, "partner": 375}
+{"ix": 275, "image": "000000357459.jpg", "captions": ["A photo of a dog to the right of a person", "A photo of a dog to the left of a person"], "correct": 0, "covered": true, "partner": 376}
+{"ix": 276, "image": "000000496954.jpg", "captions": ["A photo of a bottle to the right of a fork", "A photo of a bottle to the left of a fork"], "correct": 0, "covered": true, "partner": 377}
+{"ix": 277, "image": "000000496954.jpg", "captions": ["A photo of a bottle above a fork", "A photo of a bottle below a fork"], "correct": 0, "covered": true, "partner": 378}
+{"ix": 278, "image": "000000496954.jpg", "captions": ["A photo of a fork to the left of a bowl", "A photo of a fork to the right of a bowl"], "correct": 0, "covered": true, "partner": 379}
+{"ix": 279, "image": "000000496954.jpg", "captions": ["A photo of a fork to the left of a orange", "A photo of a fork to the right of a orange"], "correct": 0, "covered": true, "partner": 380}
+{"ix": 280, "image": "000000157601.jpg", "captions": ["A photo of a person above a dining table", "A photo of a person below a dining table"], "correct": 0, "covered": true, "partner": 381}
+{"ix": 281, "image": "000000512657.jpg", "captions": ["A photo of a couch below a surfboard", "A photo of a couch above a surfboard"], "correct": 0, "covered": true, "partner": 382}
+{"ix": 282, "image": "000000246308.jpg", "captions": ["A photo of a tv above a keyboard", "A photo of a tv below a keyboard"], "correct": 0, "covered": true, "partner": 383}
+{"ix": 283, "image": "000000246308.jpg", "captions": ["A photo of a laptop above a keyboard", "A photo of a laptop below a keyboard"], "correct": 0, "covered": true, "partner": 384}
+{"ix": 284, "image": "000000523100.jpg", "captions": ["A photo of a person above a bowl", "A photo of a person below a bowl"], "correct": 0, "covered": true, "partner": 385}
+{"ix": 285, "image": "000000523100.jpg", "captions": ["A photo of a person to the right of a oven", "A photo of a person to the left of a oven"], "correct": 0, "covered": false, "partner": 386}
+{"ix": 286, "image": "000000523100.jpg", "captions": ["A photo of a bowl below a oven", "A photo of a bowl above a oven"], "correct": 0, "covered": false, "partner": 387}
+{"ix": 287, "image": "000000431140.jpg", "captions": ["A photo of a toilet to the left of a sink", "A photo of a toilet to the right of a sink"], "correct": 0, "covered": true, "partner": 388}
+{"ix": 288, "image": "000000181542.jpg", "captions": ["A photo of a bus to the left of a truck", "A photo of a bus to the right of a truck"], "correct": 0, "covered": true, "partner": 389}
+{"ix": 289, "image": "000000179392.jpg", "captions": ["A photo of a tv above a keyboard", "A photo of a tv below a keyboard"], "correct": 0, "covered": true, "partner": 390}
+{"ix": 290, "image": "000000429623.jpg", "captions": ["A photo of a pizza below a chair", "A photo of a pizza above a chair"], "correct": 0, "covered": true, "partner": 391}
+{"ix": 291, "image": "000000222735.jpg", "captions": ["A photo of a tv above a remote", "A photo of a tv below a remote"], "correct": 0, "covered": false, "partner": 392}
+{"ix": 292, "image": "000000222735.jpg", "captions": ["A photo of a tv above a dining table", "A photo of a tv below a dining table"], "correct": 0, "covered": true, "partner": 393}
+{"ix": 293, "image": "000000222735.jpg", "captions": ["A photo of a person above a remote", "A photo of a person below a remote"], "correct": 0, "covered": false, "partner": 394}
+{"ix": 294, "image": "000000222735.jpg", "captions": ["A photo of a person above a dining table", "A photo of a person below a dining table"], "correct": 0, "covered": true, "partner": 395}
+{"ix": 295, "image": "000000037740.jpg", "captions": ["A photo of a potted plant to the right of a couch", "A photo of a potted plant to the left of a couch"], "correct": 0, "covered": true, "partner": 396}
+{"ix": 296, "image": "000000086582.jpg", "captions": ["A photo of a person to the left of a laptop", "A photo of a person to the right of a laptop"], "correct": 0, "covered": true, "partner": 397}
+{"ix": 297, "image": "000000319696.jpg", "captions": ["A photo of a bottle to the right of a microwave", "A photo of a bottle to the left of a microwave"], "correct": 0, "covered": true, "partner": 398}
+{"ix": 298, "image": "000000319696.jpg", "captions": ["A photo of a bottle to the left of a potted plant", "A photo of a bottle to the right of a potted plant"], "correct": 0, "covered": true, "partner": 399}
+{"ix": 299, "image": "000000319696.jpg", "captions": ["A photo of a microwave to the left of a potted plant", "A photo of a microwave to the right of a potted plant"], "correct": 0, "covered": true, "partner": 400}
+{"ix": 300, "image": "000000213445.jpg", "captions": ["A photo of a bowl below a couch", "A photo of a bowl above a couch"], "correct": 0, "covered": true, "partner": 401}
+{"ix": 301, "image": "000000353051.jpg", "captions": ["A photo of a horse to the right of a person", "A photo of a horse to the left of a person"], "correct": 0, "covered": true, "partner": 402}
+{"ix": 302, "image": "000000407825.jpg", "captions": ["A photo of a clock below a potted plant", "A photo of a clock above a potted plant"], "correct": 0, "covered": true, "partner": 403}
+{"ix": 303, "image": "000000092091.jpg", "captions": ["A photo of a tv to the left of a teddy bear", "A photo of a tv to the right of a teddy bear"], "correct": 0, "covered": true, "partner": 404}
+{"ix": 304, "image": "000000092091.jpg", "captions": ["A photo of a tv above a teddy bear", "A photo of a tv below a teddy bear"], "correct": 0, "covered": true, "partner": 405}
+{"ix": 305, "image": "000000435208.jpg", "captions": ["A photo of a couch to the left of a dining table", "A photo of a couch to the right of a dining table"], "correct": 0, "covered": true, "partner": 406}
+{"ix": 306, "image": "000000435208.jpg", "captions": ["A photo of a chair to the left of a dining table", "A photo of a chair to the right of a dining table"], "correct": 0, "covered": true, "partner": 407}
+{"ix": 307, "image": "000000515077.jpg", "captions": ["A photo of a person to the left of a tv", "A photo of a person to the right of a tv"], "correct": 0, "covered": false, "partner": 408}
+{"ix": 308, "image": "000000515077.jpg", "captions": ["A photo of a person to the left of a couch", "A photo of a person to the right of a couch"], "correct": 0, "covered": true, "partner": 409}
+{"ix": 309, "image": "000000515077.jpg", "captions": ["A photo of a tv above a couch", "A photo of a tv below a couch"], "correct": 0, "covered": true, "partner": 410}
+{"ix": 310, "image": "000000446005.jpg", "captions": ["A photo of a oven below a microwave", "A photo of a oven above a microwave"], "correct": 0, "covered": true, "partner": 411}
+{"ix": 311, "image": "000000146489.jpg", "captions": ["A photo of a bottle to the left of a pizza", "A photo of a bottle to the right of a pizza"], "correct": 0, "covered": true, "partner": 412}
+{"ix": 312, "image": "000000225757.jpg", "captions": ["A photo of a keyboard to the left of a laptop", "A photo of a keyboard to the right of a laptop"], "correct": 0, "covered": true, "partner": 413}
+{"ix": 313, "image": "000000232088.jpg", "captions": ["A photo of a tv above a couch", "A photo of a tv below a couch"], "correct": 0, "covered": true, "partner": 414}
+{"ix": 314, "image": "000000148620.jpg", "captions": ["A photo of a tv to the right of a laptop", "A photo of a tv to the left of a laptop"], "correct": 0, "covered": true, "partner": 415}
+{"ix": 315, "image": "000000404484.jpg", "captions": ["A photo of a dog to the left of a potted plant", "A photo of a dog to the right of a potted plant"], "correct": 0, "covered": true, "partner": 416}
+{"ix": 316, "image": "000000404484.jpg", "captions": ["A photo of a dog to the left of a person", "A photo of a dog to the right of a person"], "correct": 0, "covered": true, "partner": 417}
+{"ix": 317, "image": "000000226984.jpg", "captions": ["A photo of a refrigerator to the right of a oven", "A photo of a refrigerator to the left of a oven"], "correct": 0, "covered": false, "partner": 418}
+{"ix": 318, "image": "000000222825.jpg", "captions": ["A photo of a refrigerator to the left of a oven", "A photo of a refrigerator to the right of a oven"], "correct": 0, "covered": false, "partner": 419}
+{"ix": 319, "image": "000000096001.jpg", "captions": ["A photo of a umbrella below a book", "A photo of a umbrella above a book"], "correct": 0, "covered": true, "partner": 420}
+{"ix": 320, "image": "000000096001.jpg", "captions": ["A photo of a umbrella below a bowl", "A photo of a umbrella above a bowl"], "correct": 0, "covered": true, "partner": 421}
+{"ix": 321, "image": "000000096001.jpg", "captions": ["A photo of a book to the right of a bowl", "A photo of a book to the left of a bowl"], "correct": 0, "covered": true, "partner": 422}
+{"ix": 322, "image": "000000026564.jpg", "captions": ["A photo of a laptop to the right of a keyboard", "A photo of a laptop to the left of a keyboard"], "correct": 0, "covered": true, "partner": 423}
+{"ix": 323, "image": "000000026564.jpg", "captions": ["A photo of a laptop to the right of a tv", "A photo of a laptop to the left of a tv"], "correct": 0, "covered": false, "partner": 424}
+{"ix": 324, "image": "000000026564.jpg", "captions": ["A photo of a keyboard below a tv", "A photo of a keyboard above a tv"], "correct": 0, "covered": false, "partner": 425}
+{"ix": 325, "image": "000000241326.jpg", "captions": ["A photo of a dog to the right of a cat", "A photo of a dog to the left of a cat"], "correct": 0, "covered": true, "partner": 426}
+{"ix": 326, "image": "000000529762.jpg", "captions": ["A photo of a wine glass to the right of a bowl", "A photo of a wine glass to the left of a bowl"], "correct": 0, "covered": true, "partner": 427}
+{"ix": 327, "image": "000000139077.jpg", "captions": ["A photo of a tv to the right of a person", "A photo of a tv to the left of a person"], "correct": 0, "covered": true, "partner": 428}
+{"ix": 328, "image": "000000533145.jpg", "captions": ["A photo of a tv to the right of a person", "A photo of a tv to the left of a person"], "correct": 0, "covered": true, "partner": 429}
+{"ix": 329, "image": "000000454404.jpg", "captions": ["A photo of a bench to the left of a potted plant", "A photo of a bench to the right of a potted plant"], "correct": 0, "covered": true, "partner": 430}
+{"ix": 330, "image": "000000454404.jpg", "captions": ["A photo of a chair to the left of a potted plant", "A photo of a chair to the right of a potted plant"], "correct": 0, "covered": true, "partner": 431}
+{"ix": 331, "image": "000000463618.jpg", "captions": ["A photo of a tv to the left of a couch", "A photo of a tv to the right of a couch"], "correct": 0, "covered": true, "partner": 432}
+{"ix": 332, "image": "000000150224.jpg", "captions": ["A photo of a umbrella to the left of a chair", "A photo of a umbrella to the right of a chair"], "correct": 0, "covered": true, "partner": 433}
+{"ix": 333, "image": "000000150224.jpg", "captions": ["A photo of a umbrella above a chair", "A photo of a umbrella below a chair"], "correct": 0, "covered": true, "partner": 434}
+{"ix": 334, "image": "000000322574.jpg", "captions": ["A photo of a bowl above a sandwich", "A photo of a bowl below a sandwich"], "correct": 0, "covered": true, "partner": 435}
+{"ix": 335, "image": "000000322574.jpg", "captions": ["A photo of a cup above a sandwich", "A photo of a cup below a sandwich"], "correct": 0, "covered": true, "partner": 436}
+{"ix": 336, "image": "000000084362.jpg", "captions": ["A photo of a tv above a cat", "A photo of a tv below a cat"], "correct": 0, "covered": true, "partner": 437}
+{"ix": 337, "image": "000000084362.jpg", "captions": ["A photo of a tv above a chair", "A photo of a tv below a chair"], "correct": 0, "covered": true, "partner": 438}
+{"ix": 338, "image": "000000368335.jpg", "captions": ["A photo of a horse to the right of a truck", "A photo of a horse to the left of a truck"], "correct": 0, "covered": true, "partner": 439}
+{"ix": 339, "image": "000000416534.jpg", "captions": ["A photo of a tv to the left of a chair", "A photo of a tv to the right of a chair"], "correct": 0, "covered": true, "partner": 0}
+{"ix": 340, "image": "000000416534.jpg", "captions": ["A photo of a tv to the left of a couch", "A photo of a tv to the right of a couch"], "correct": 0, "covered": true, "partner": 1}
+{"ix": 341, "image": "000000416534.jpg", "captions": ["A photo of a chair to the left of a couch", "A photo of a chair to the right of a couch"], "correct": 0, "covered": true, "partner": 2}
+{"ix": 342, "image": "000000039477.jpg", "captions": ["A photo of a tv to the left of a couch", "A photo of a tv to the right of a couch"], "correct": 0, "covered": true, "partner": 3}
+{"ix": 343, "image": "000000147415.jpg", "captions": ["A photo of a chair to the left of a person", "A photo of a chair to the right of a person"], "correct": 0, "covered": true, "partner": 4}
+{"ix": 344, "image": "000000536073.jpg", "captions": ["A photo of a bottle to the left of a cup", "A photo of a bottle to the right of a cup"], "correct": 0, "covered": true, "partner": 5}
+{"ix": 345, "image": "000000310200.jpg", "captions": ["A photo of a donut below a bowl", "A photo of a donut above a bowl"], "correct": 0, "covered": true, "partner": 6}
+{"ix": 346, "image": "000000114770.jpg", "captions": ["A photo of a motorcycle below a airplane", "A photo of a motorcycle above a airplane"], "correct": 0, "covered": true, "partner": 7}
+{"ix": 347, "image": "000000113589.jpg", "captions": ["A photo of a banana to the right of a sandwich", "A photo of a banana to the left of a sandwich"], "correct": 0, "covered": true, "partner": 8}
+{"ix": 348, "image": "000000113589.jpg", "captions": ["A photo of a bowl to the right of a sandwich", "A photo of a bowl to the left of a sandwich"], "correct": 0, "covered": true, "partner": 9}
+{"ix": 349, "image": "000000425361.jpg", "captions": ["A photo of a chair to the left of a laptop", "A photo of a chair to the right of a laptop"], "correct": 0, "covered": true, "partner": 10}
+{"ix": 350, "image": "000000425361.jpg", "captions": ["A photo of a person to the left of a laptop", "A photo of a person to the right of a laptop"], "correct": 0, "covered": true, "partner": 11}
+{"ix": 351, "image": "000000172595.jpg", "captions": ["A photo of a laptop above a handbag", "A photo of a laptop below a handbag"], "correct": 0, "covered": true, "partner": 12}
+{"ix": 352, "image": "000000366225.jpg", "captions": ["A photo of a tv above a keyboard", "A photo of a tv below a keyboard"], "correct": 0, "covered": true, "partner": 13}
+{"ix": 353, "image": "000000397354.jpg", "captions": ["A photo of a dining table to the left of a refrigerator", "A photo of a dining table to the right of a refrigerator"], "correct": 0, "covered": true, "partner": 14}
+{"ix": 354, "image": "000000070048.jpg", "captions": ["A photo of a sandwich to the right of a cup", "A photo of a sandwich to the left of a cup"], "correct": 0, "covered": true, "partner": 15}
+{"ix": 355, "image": "000000276285.jpg", "captions": ["A photo of a person above a pizza", "A photo of a person below a pizza"], "correct": 0, "covered": true, "partner": 16}
+{"ix": 356, "image": "000000025603.jpg", "captions": ["A photo of a pizza to the left of a book", "A photo of a pizza to the right of a book"], "correct": 0, "covered": true, "partner": 17}
+{"ix": 357, "image": "000000158744.jpg", "captions": ["A photo of a couch to the left of a person", "A photo of a couch to the right of a person"], "correct": 0, "covered": true, "partner": 18}
+{"ix": 358, "image": "000000160012.jpg", "captions": ["A photo of a bottle to the left of a person", "A photo of a bottle to the right of a person"], "correct": 0, "covered": true, "partner": 19}
+{"ix": 359, "image": "000000485424.jpg", "captions": ["A photo of a suitcase above a oven", "A photo of a suitcase below a oven"], "correct": 0, "covered": false, "partner": 20}
+{"ix": 360, "image": "000000022192.jpg", "captions": ["A photo of a dog to the left of a handbag", "A photo of a dog to the right of a handbag"], "correct": 0, "covered": true, "partner": 21}
+{"ix": 361, "image": "000000253452.jpg", "captions": ["A photo of a cup to the right of a cake", "A photo of a cup to the left of a cake"], "correct": 0, "covered": true, "partner": 22}
+{"ix": 362, "image": "000000253452.jpg", "captions": ["A photo of a cup below a cake", "A photo of a cup above a cake"], "correct": 0, "covered": true, "partner": 23}
+{"ix": 363, "image": "000000068833.jpg", "captions": ["A photo of a chair to the right of a refrigerator", "A photo of a chair to the left of a refrigerator"], "correct": 0, "covered": true, "partner": 24}
+{"ix": 364, "image": "000000211825.jpg", "captions": ["A photo of a cake to the left of a oven", "A photo of a cake to the right of a oven"], "correct": 0, "covered": false, "partner": 25}
+{"ix": 365, "image": "000000129135.jpg", "captions": ["A photo of a train above a bench", "A photo of a train below a bench"], "correct": 0, "covered": true, "partner": 26}
+{"ix": 366, "image": "000000446206.jpg", "captions": ["A photo of a bus below a train", "A photo of a bus above a train"], "correct": 0, "covered": true, "partner": 27}
+{"ix": 367, "image": "000000574315.jpg", "captions": ["A photo of a cat above a keyboard", "A photo of a cat below a keyboard"], "correct": 0, "covered": true, "partner": 28}
+{"ix": 368, "image": "000000398438.jpg", "captions": ["A photo of a person to the right of a cake", "A photo of a person to the left of a cake"], "correct": 0, "covered": true, "partner": 29}
+{"ix": 369, "image": "000000451571.jpg", "captions": ["A photo of a pizza to the left of a chair", "A photo of a pizza to the right of a chair"], "correct": 0, "covered": true, "partner": 30}
+{"ix": 370, "image": "000000451571.jpg", "captions": ["A photo of a sandwich to the left of a chair", "A photo of a sandwich to the right of a chair"], "correct": 0, "covered": true, "partner": 31}
+{"ix": 371, "image": "000000385029.jpg", "captions": ["A photo of a person below a bowl", "A photo of a person above a bowl"], "correct": 0, "covered": true, "partner": 32}
+{"ix": 372, "image": "000000532761.jpg", "captions": ["A photo of a tv to the right of a couch", "A photo of a tv to the left of a couch"], "correct": 0, "covered": true, "partner": 33}
+{"ix": 373, "image": "000000532761.jpg", "captions": ["A photo of a tv to the right of a chair", "A photo of a tv to the left of a chair"], "correct": 0, "covered": true, "partner": 34}
+{"ix": 374, "image": "000000532761.jpg", "captions": ["A photo of a couch to the left of a chair", "A photo of a couch to the right of a chair"], "correct": 0, "covered": true, "partner": 35}
+{"ix": 375, "image": "000000066635.jpg", "captions": ["A photo of a tv above a keyboard", "A photo of a tv below a keyboard"], "correct": 0, "covered": true, "partner": 36}
+{"ix": 376, "image": "000000367228.jpg", "captions": ["A photo of a kite above a person", "A photo of a kite below a person"], "correct": 0, "covered": true, "partner": 37}
+{"ix": 377, "image": "000000476787.jpg", "captions": ["A photo of a bowl above a pizza", "A photo of a bowl below a pizza"], "correct": 0, "covered": true, "partner": 38}
+{"ix": 378, "image": "000000183965.jpg", "captions": ["A photo of a sandwich to the right of a cup", "A photo of a sandwich to the left of a cup"], "correct": 0, "covered": true, "partner": 39}
+{"ix": 379, "image": "000000183965.jpg", "captions": ["A photo of a cup to the left of a hot dog", "A photo of a cup to the right of a hot dog"], "correct": 0, "covered": true, "partner": 40}
+{"ix": 380, "image": "000000382696.jpg", "captions": ["A photo of a refrigerator to the left of a oven", "A photo of a refrigerator to the right of a oven"], "correct": 0, "covered": false, "partner": 41}
+{"ix": 381, "image": "000000226171.jpg", "captions": ["A photo of a tv to the right of a laptop", "A photo of a tv to the left of a laptop"], "correct": 0, "covered": true, "partner": 42}
+{"ix": 382, "image": "000000226171.jpg", "captions": ["A photo of a tv above a keyboard", "A photo of a tv below a keyboard"], "correct": 0, "covered": true, "partner": 43}
+{"ix": 383, "image": "000000226171.jpg", "captions": ["A photo of a laptop to the left of a keyboard", "A photo of a laptop to the right of a keyboard"], "correct": 0, "covered": true, "partner": 44}
+{"ix": 384, "image": "000000360951.jpg", "captions": ["A photo of a tv to the left of a laptop", "A photo of a tv to the right of a laptop"], "correct": 0, "covered": true, "partner": 45}
+{"ix": 385, "image": "000000076547.jpg", "captions": ["A photo of a bicycle to the left of a person", "A photo of a bicycle to the right of a person"], "correct": 0, "covered": true, "partner": 46}
+{"ix": 386, "image": "000000076547.jpg", "captions": ["A photo of a train to the left of a person", "A photo of a train to the right of a person"], "correct": 0, "covered": true, "partner": 47}
+{"ix": 387, "image": "000000245576.jpg", "captions": ["A photo of a tv above a keyboard", "A photo of a tv below a keyboard"], "correct": 0, "covered": true, "partner": 48}
+{"ix": 388, "image": "000000081061.jpg", "captions": ["A photo of a chair to the left of a suitcase", "A photo of a chair to the right of a suitcase"], "correct": 0, "covered": true, "partner": 49}
+{"ix": 389, "image": "000000312406.jpg", "captions": ["A photo of a banana to the left of a bowl", "A photo of a banana to the right of a bowl"], "correct": 0, "covered": true, "partner": 50}
+{"ix": 390, "image": "000000110999.jpg", "captions": ["A photo of a cup to the right of a person", "A photo of a cup to the left of a person"], "correct": 0, "covered": true, "partner": 51}
+{"ix": 391, "image": "000000110999.jpg", "captions": ["A photo of a cup below a person", "A photo of a cup above a person"], "correct": 0, "covered": true, "partner": 52}
+{"ix": 392, "image": "000000110999.jpg", "captions": ["A photo of a cup to the right of a bowl", "A photo of a cup to the left of a bowl"], "correct": 0, "covered": true, "partner": 53}
+{"ix": 393, "image": "000000110999.jpg", "captions": ["A photo of a person above a bowl", "A photo of a person below a bowl"], "correct": 0, "covered": true, "partner": 54}
+{"ix": 394, "image": "000000530061.jpg", "captions": ["A photo of a couch to the left of a chair", "A photo of a couch to the right of a chair"], "correct": 0, "covered": true, "partner": 55}
+{"ix": 395, "image": "000000530061.jpg", "captions": ["A photo of a couch above a dining table", "A photo of a couch below a dining table"], "correct": 0, "covered": true, "partner": 56}
+{"ix": 396, "image": "000000530061.jpg", "captions": ["A photo of a chair to the right of a bowl", "A photo of a chair to the left of a bowl"], "correct": 0, "covered": true, "partner": 57}
+{"ix": 397, "image": "000000457078.jpg", "captions": ["A photo of a tv to the left of a person", "A photo of a tv to the right of a person"], "correct": 0, "covered": true, "partner": 58}
+{"ix": 398, "image": "000000458255.jpg", "captions": ["A photo of a cat to the right of a person", "A photo of a cat to the left of a person"], "correct": 0, "covered": true, "partner": 59}
+{"ix": 399, "image": "000000251537.jpg", "captions": ["A photo of a carrot below a dining table", "A photo of a carrot above a dining table"], "correct": 0, "covered": true, "partner": 60}
+{"ix": 400, "image": "000000042528.jpg", "captions": ["A photo of a cell phone to the right of a chair", "A photo of a cell phone to the left of a chair"], "correct": 0, "covered": true, "partner": 61}
+{"ix": 401, "image": "000000528705.jpg", "captions": ["A photo of a teddy bear to the left of a person", "A photo of a teddy bear to the right of a person"], "correct": 0, "covered": true, "partner": 62}
+{"ix": 402, "image": "000000414510.jpg", "captions": ["A photo of a bicycle below a truck", "A photo of a bicycle above a truck"], "correct": 0, "covered": true, "partner": 63}
+{"ix": 403, "image": "000000389804.jpg", "captions": ["A photo of a toilet to the left of a sink", "A photo of a toilet to the right of a sink"], "correct": 0, "covered": true, "partner": 64}
+{"ix": 404, "image": "000000216277.jpg", "captions": ["A photo of a cell phone to the right of a apple", "A photo of a cell phone to the left of a apple"], "correct": 0, "covered": true, "partner": 65}
+{"ix": 405, "image": "000000216277.jpg", "captions": ["A photo of a apple to the left of a person", "A photo of a apple to the right of a person"], "correct": 0, "covered": true, "partner": 66}
+{"ix": 406, "image": "000000304984.jpg", "captions": ["A photo of a fork below a orange", "A photo of a fork above a orange"], "correct": 0, "covered": true, "partner": 67}
+{"ix": 407, "image": "000000304984.jpg", "captions": ["A photo of a fork to the left of a cake", "A photo of a fork to the right of a cake"], "correct": 0, "covered": true, "partner": 68}
+{"ix": 408, "image": "000000304984.jpg", "captions": ["A photo of a fork to the left of a wine glass", "A photo of a fork to the right of a wine glass"], "correct": 0, "covered": true, "partner": 69}
+{"ix": 409, "image": "000000304984.jpg", "captions": ["A photo of a fork below a wine glass", "A photo of a fork above a wine glass"], "correct": 0, "covered": true, "partner": 70}
+{"ix": 410, "image": "000000304984.jpg", "captions": ["A photo of a orange to the left of a wine glass", "A photo of a orange to the right of a wine glass"], "correct": 0, "covered": true, "partner": 71}
+{"ix": 411, "image": "000000304984.jpg", "captions": ["A photo of a cake to the left of a wine glass", "A photo of a cake to the right of a wine glass"], "correct": 0, "covered": true, "partner": 72}
+{"ix": 412, "image": "000000438226.jpg", "captions": ["A photo of a wine glass to the left of a hot dog", "A photo of a wine glass to the right of a hot dog"], "correct": 0, "covered": true, "partner": 73}
+{"ix": 413, "image": "000000561465.jpg", "captions": ["A photo of a cake to the right of a dining table", "A photo of a cake to the left of a dining table"], "correct": 0, "covered": true, "partner": 74}
+{"ix": 414, "image": "000000119677.jpg", "captions": ["A photo of a cake to the left of a fork", "A photo of a cake to the right of a fork"], "correct": 0, "covered": true, "partner": 75}
+{"ix": 415, "image": "000000206579.jpg", "captions": ["A photo of a cake below a chair", "A photo of a cake above a chair"], "correct": 0, "covered": true, "partner": 76}
+{"ix": 416, "image": "000000194724.jpg", "captions": ["A photo of a refrigerator above a book", "A photo of a refrigerator below a book"], "correct": 0, "covered": true, "partner": 77}
+{"ix": 417, "image": "000000233825.jpg", "captions": ["A photo of a tv to the right of a couch", "A photo of a tv to the left of a couch"], "correct": 0, "covered": true, "partner": 78}
+{"ix": 418, "image": "000000233825.jpg", "captions": ["A photo of a tv above a couch", "A photo of a tv below a couch"], "correct": 0, "covered": true, "partner": 79}
+{"ix": 419, "image": "000000318114.jpg", "captions": ["A photo of a fork to the left of a orange", "A photo of a fork to the right of a orange"], "correct": 0, "covered": true, "partner": 80}
+{"ix": 420, "image": "000000318114.jpg", "captions": ["A photo of a cup to the left of a orange", "A photo of a cup to the right of a orange"], "correct": 0, "covered": true, "partner": 81}
+{"ix": 421, "image": "000000318114.jpg", "captions": ["A photo of a cup to the left of a cake", "A photo of a cup to the right of a cake"], "correct": 0, "covered": true, "partner": 82}
+{"ix": 422, "image": "000000318114.jpg", "captions": ["A photo of a orange above a cake", "A photo of a orange below a cake"], "correct": 0, "covered": true, "partner": 83}
+{"ix": 423, "image": "000000243626.jpg", "captions": ["A photo of a cup to the left of a fork", "A photo of a cup to the right of a fork"], "correct": 0, "covered": true, "partner": 84}
+{"ix": 424, "image": "000000013177.jpg", "captions": ["A photo of a bicycle to the right of a motorcycle", "A photo of a bicycle to the left of a motorcycle"], "correct": 0, "covered": true, "partner": 85}
+{"ix": 425, "image": "000000013177.jpg", "captions": ["A photo of a motorcycle to the left of a person", "A photo of a motorcycle to the right of a person"], "correct": 0, "covered": true, "partner": 86}
+{"ix": 426, "image": "000000050380.jpg", "captions": ["A photo of a horse to the right of a chair", "A photo of a horse to the left of a chair"], "correct": 0, "covered": true, "partner": 87}
+{"ix": 427, "image": "000000562059.jpg", "captions": ["A photo of a cup to the left of a spoon", "A photo of a cup to the right of a spoon"], "correct": 0, "covered": true, "partner": 88}
+{"ix": 428, "image": "000000562059.jpg", "captions": ["A photo of a cup above a spoon", "A photo of a cup below a spoon"], "correct": 0, "covered": true, "partner": 89}
+{"ix": 429, "image": "000000116206.jpg", "captions": ["A photo of a knife to the right of a cup", "A photo of a knife to the left of a cup"], "correct": 0, "covered": true, "partner": 90}
+{"ix": 430, "image": "000000116206.jpg", "captions": ["A photo of a knife below a cup", "A photo of a knife above a cup"], "correct": 0, "covered": true, "partner": 91}
+{"ix": 431, "image": "000000116206.jpg", "captions": ["A photo of a knife to the right of a carrot", "A photo of a knife to the left of a carrot"], "correct": 0, "covered": true, "partner": 92}
+{"ix": 432, "image": "000000116206.jpg", "captions": ["A photo of a cup above a carrot", "A photo of a cup below a carrot"], "correct": 0, "covered": true, "partner": 93}
+{"ix": 433, "image": "000000111609.jpg", "captions": ["A photo of a person to the left of a laptop", "A photo of a person to the right of a laptop"], "correct": 0, "covered": true, "partner": 94}
+{"ix": 434, "image": "000000456143.jpg", "captions": ["A photo of a sandwich to the right of a bowl", "A photo of a sandwich to the left of a bowl"], "correct": 0, "covered": true, "partner": 95}
+{"ix": 435, "image": "000000456143.jpg", "captions": ["A photo of a bowl below a pizza", "A photo of a bowl above a pizza"], "correct": 0, "covered": true, "partner": 96}
+{"ix": 436, "image": "000000033759.jpg", "captions": ["A photo of a person to the left of a truck", "A photo of a person to the right of a truck"], "correct": 0, "covered": true, "partner": 97}
+{"ix": 437, "image": "000000512403.jpg", "captions": ["A photo of a book to the left of a vase", "A photo of a book to the right of a vase"], "correct": 0, "covered": true, "partner": 98}
+{"ix": 438, "image": "000000552775.jpg", "captions": ["A photo of a person to the left of a bowl", "A photo of a person to the right of a bowl"], "correct": 0, "covered": true, "partner": 99}
+{"ix": 439, "image": "000000552775.jpg", "captions": ["A photo of a bowl to the right of a refrigerator", "A photo of a bowl to the left of a refrigerator"], "correct": 0, "covered": true, "partner": 100}

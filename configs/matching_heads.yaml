@@ -1,0 +1,12 @@
+# Cross-encoder matching heads: the ITM head of BLIP base, BLIP large, BLIP-2 and FLAVA. Change head to itc for
+# the contrastive branch of the same checkpoints. Models download from the Hugging Face hub (transformers).
+readouts:
+  - {readout: matching_head, model: blip_base, head: itm}
+  - {readout: matching_head, model: blip_large, head: itm}
+  - {readout: matching_head, model: blip2, head: itm}
+  - {readout: matching_head, model: flava, head: itm}
+sets: [vgrel, coco_spatial, whatsup_a, whatsup_b, vsr]
+passes: [real, "null"]
+data_root: data
+vsr_root: data/vsr
+out: results/matching_heads
