@@ -1,10 +1,14 @@
 # Readout Blindness: VLM Scores Miss the Spatial Direction Their Frozen Encoders Retain
 
+[![arXiv](https://img.shields.io/badge/arXiv-2610.06324-b31b1b.svg)](https://arxiv.org/abs/2610.06324)
+
+Code for the preprint [arXiv:2610.06324](https://arxiv.org/abs/2610.06324) by Guangyuan Li, Tianming Du, Yan Jiang, Bihan Wen, and Jiancheng Yang.
+
 This repository provides **Antisymmetric Displacement Readout (ADR)** and the **prior-deflated evaluation kit**.
 
 ADR estimates object locations from a frozen vision-language model and reads relation direction from their signed centroid displacement. It requires no additional training or learned parameters. The evaluation kit compares readouts under original and unrelated image-caption pairings to measure grounded gain.
 
-[Installation](#installation) · [Data](#data) · [Run](#run) · [Evaluation](#evaluation) · [Code](#code)
+[Installation](#installation) · [Data](#data) · [Run](#run) · [Evaluation](#evaluation) · [Code](#code) · [Citation](#citation)
 
 ## ADR
 
@@ -183,6 +187,22 @@ This uses 10,000 uniform draws. Data-loading and scoring details are in [`evalki
 | [`scripts/`](scripts/) | Evaluation entry point, manifest building, item-list export and reference comparisons |
 
 To rebuild manifests or export item lists, see [`build_manifests.py`](scripts/build_manifests.py) and [`export_lists.py`](scripts/export_lists.py). The `smoke_compare` scripts compare generated scores with supplied reference records.
+
+## Citation
+
+If you use this code, please cite the preprint:
+
+```bibtex
+@misc{li2026readoutblindness,
+  title         = {Readout Blindness: {VLM} Scores Miss the Spatial Direction Their Frozen Encoders Retain},
+  author        = {Guangyuan Li and Tianming Du and Yan Jiang and Bihan Wen and Jiancheng Yang},
+  year          = {2026},
+  eprint        = {2610.06324},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2610.06324}
+}
+```
 
 ## License
 
