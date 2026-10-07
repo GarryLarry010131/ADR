@@ -2,10 +2,6 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2610.06324-b31b1b.svg)](https://arxiv.org/abs/2610.06324)
 
-Code for the preprint [arXiv:2610.06324](https://arxiv.org/abs/2610.06324) by Guangyuan Li, Tianming Du, Yan Jiang, Bihan Wen, and Jiancheng Yang.
-
-This repository provides **Antisymmetric Displacement Readout (ADR)** and the **prior-deflated evaluation kit**.
-
 ADR estimates object locations from a frozen vision-language model and reads relation direction from their signed centroid displacement. It requires no additional training or learned parameters. The evaluation kit compares readouts under original and unrelated image-caption pairings to measure grounded gain.
 
 [Installation](#installation) · [Data](#data) · [Run](#run) · [Evaluation](#evaluation) · [Code](#code) · [Citation](#citation)
