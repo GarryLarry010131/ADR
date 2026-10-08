@@ -189,14 +189,11 @@ To rebuild manifests or export item lists, see [`build_manifests.py`](scripts/bu
 If you use this code, please cite the preprint:
 
 ```bibtex
-@misc{li2026readoutblindnessvlmscores,
+@article{li2026readout,
   title={Readout Blindness: VLM Scores Miss the Spatial Direction Their Frozen Encoders Retain},
-  author={Guangyuan Li and Tianming Du and Yan Jiang and Bihan Wen and Jiancheng Yang},
-  year={2026},
-  eprint={2610.06324},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2610.06324},
+  author={Li, Guangyuan and Du, Tianming and Jiang, Yan and Wen, Bihan and Yang, Jiancheng},
+  journal={arXiv preprint arXiv:2610.06324},
+  year={2026}
 }
 ```
 
